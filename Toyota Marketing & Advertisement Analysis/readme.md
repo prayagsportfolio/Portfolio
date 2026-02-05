@@ -6,7 +6,7 @@
 ---
 
 ## 📷 Project Preview
-![Dashboard Screenshot](relative/path/to/your/screenshot.png)
+![Dashboard Screenshot](https://github.com/prayagsportfolio/Portfolio/blob/main/Toyota%20Marketing%20%26%20Advertisement%20Analysis/Dashboard%20static%20view.jpg)
 *(Note: If the interactive link above doesn't load, please refer to this static preview.)*
 
 ---
