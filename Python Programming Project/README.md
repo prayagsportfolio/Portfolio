@@ -18,3 +18,6 @@
 2. Select **New Game** from the menu.
 3. Enter your guess (digits 0-5).
 4. Use the feedback (Red/White pins) to deduce the correct code before you run out of turns!
+
+## 📂 Project Structure
+File: Python code (see attached .py file).
