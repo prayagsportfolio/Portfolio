@@ -1,15 +1,12 @@
 # 🏠 Airbnb Property Sales Dashboard
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
-
 ## 📊 Live Dashboard
 👉 **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/prayagb/viz/AirbnbPropertySales/Airbnbpropertysalesdashboard)**
 
 ---
 
 ## 📷 Project Preview
-![Dashboard Screenshot](relative/path/to/your/screenshot.png)
+![Dashboard Screenshot](https://github.com/prayagsportfolio/Portfolio/blob/main/Airbnb%20Property%20Sales%20Dashboard/Dashboard%20static%20view.jpg)
 *(Note: If the interactive link above doesn't load, please refer to this static preview.)*
 
 ---
