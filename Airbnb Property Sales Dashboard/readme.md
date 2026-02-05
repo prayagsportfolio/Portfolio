@@ -35,8 +35,8 @@ Property investors often struggle to determine the best locations to buy and how
 
 ## 🛠️ Tools & Technologies
 * **Visualization:** Tableau Public
-* **Data Processing:** Excel / SQL (Mention if you used SQL to clean the data)
-* **Dataset:** Airbnb Sales Data (Source: e.g., Kaggle / InsideAirbnb)
+* **Data Processing:** Excel / SQL
+* **Dataset:** Airbnb Sales Data
 
 ---
 
