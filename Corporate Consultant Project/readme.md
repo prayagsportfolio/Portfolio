@@ -19,4 +19,4 @@ As a **Corporate Consultant** for **Griffith Foods**, I developed a Machine Lear
 
 ## 📂 Project Structure
 * **Project Presentation:** Detailed slide deck covering the problem statement, clustering methodology, and business impact (see attached `.pptx` file).
-    * [ELI Griffith Presentation.pptx](./ELI%20Griffith%20Presentation.pptx)
+
