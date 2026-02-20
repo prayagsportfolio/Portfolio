@@ -28,7 +28,7 @@ Marketing teams need to ensure their budget is allocated efficiently. This dashb
 * **Comparative Visuals:** Bar charts and trend lines to compare budgeted vs. actual performance (or Sales vs. Ad Spend).
 * **Regional/Category Filters:** Interactive elements allowing users to slice data by specific criteria.
 
-*(Key Insight Example - Edit based on your specific charts):*
+*(Key Insight Example):*
 > **Observation:** The SUV category saw a 20% spike in engagement in March, correlating with the launch of the new Spring ad campaign.
 
 ---
