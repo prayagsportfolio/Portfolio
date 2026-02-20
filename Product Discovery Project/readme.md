@@ -16,6 +16,6 @@
 ## 🛠️ Skills & Tools
 * **Core Skills:** Product Design, UX/UI Research, Human-Computer Interaction (HCI), Market Analysis.
 * **Concepts:** Augmented Reality (AR), Human Factors, Tech Stress Mitigation.
-* 
+
 ## 📂 Project Structure
 * **Product Design Report:** Comprehensive analysis covering user pain points, competitive landscape, and Human-Factor design principles (see attached .pdf file).
