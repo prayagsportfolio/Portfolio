@@ -28,7 +28,7 @@ Property investors often struggle to determine the best locations to buy and how
 * **Product Segmentation:** Breakdown of sales by property type (Entire Home vs. Private Room) and bedroom count.
 * **Interactive Filtering:** Users can drill down by specific time periods, room types, or locations to get granular insights.
 
-*(Key Insight Example - Edit/Remove based on your findings):*
+*(Key Insight Example):*
 > **Observation:** Properties with 3+ bedrooms in the downtown area showed a 15% higher occupancy rate during Q4 compared to suburban 1-bedroom listings.
 
 ---
