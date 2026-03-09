@@ -24,10 +24,6 @@ As a Corporate Consultant for company Griffith Foods, I developed a Machine Lear
 
 Designed a dashboard to analyze Airbnb property data to identify sales trends, optimal pricing strategies, and high-demand locations.
 
-## [Design and Fabrication of 1-Φ to 3-Φ Matrix Converter](https://github.com/prayagsportfolio/Portfolio/tree/main/Design%20%26%20Fabrication%20of%20a%20Semiconductor%20based%20Matrix%20Converter)
-
-1-Φ to 3-Φ Matrix Converter is a comprehensive electrical engineering project focused on the design, simulation, and hardware fabrication of a power converter topology.
-
 ## [Code Breakers (Mastermind Clone)](https://github.com/prayagsportfolio/Portfolio/tree/main/Python%20Programming%20Project)
 
 "Code Breakers" is a Python-based command-line implementation of the classic strategy game Mastermind.
@@ -35,3 +31,7 @@ Designed a dashboard to analyze Airbnb property data to identify sales trends, o
 ## [Toyota Marketing & Advertisement Analysis](https://github.com/prayagsportfolio/Portfolio/tree/main/Toyota%20Marketing%20%26%20Advertisement%20Analysis)
 
 Designed a dashboard to provide a comprehensive analysis of Toyota's advertising and sales performance for the first quarter of 2021.
+
+## [Design and Fabrication of 1-Φ to 3-Φ Matrix Converter](https://github.com/prayagsportfolio/Portfolio/tree/main/Design%20%26%20Fabrication%20of%20a%20Semiconductor%20based%20Matrix%20Converter)
+
+1-Φ to 3-Φ Matrix Converter is a comprehensive electrical engineering project focused on the design, simulation, and hardware fabrication of a power converter topology.
