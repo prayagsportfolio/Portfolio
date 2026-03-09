@@ -20,4 +20,4 @@
 4. Use the feedback (Red/White pins) to deduce the correct code before you run out of turns!
 
 ## 📂 Project Structure
-File: Python code (see attached .py file).
+File: Python code (see attached `.py` file).
