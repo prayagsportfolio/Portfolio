@@ -41,6 +41,6 @@ Volume analysis revealed that borrowers primarily use these loans to manage exis
 **4. The Small Business Anomaly**
 Borrowers taking out loans for small business possessed one of the lowest average DTIs (15.64%), indicating relatively stable personal financial health. However, this category experienced the **highest default rate (19.64%)** across all major loan purposes, highlighting the extreme inherent risk of small business ventures compared to personal debt consolidation.
 
-## 📁 Repository Files
+## 📁 Project Structure
 * `transformation_pipeline.sql`: Contains the complete SQL script for creating the cleaned data view and all risk analytics queries.
 
