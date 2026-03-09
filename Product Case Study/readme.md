@@ -18,4 +18,4 @@
 * **Frameworks:** SWOT Analysis, Marketing Mix (4Ps), User Persona Development.
 
 ## 📂 Project Structure
-* **Business Plan & Strategy:** Full product roadmap, including market research, STP analysis, and financial forecasting (see attached '.pdf' file).
+* **Business Plan & Strategy:** Full product roadmap, including market research, STP analysis, and financial forecasting (see attached `.pdf` file).
