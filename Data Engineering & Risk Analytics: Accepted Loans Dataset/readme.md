@@ -27,18 +27,18 @@ This project demonstrates a complete ELT (Extract, Load, Transform) data pipelin
 
 After cleaning the data, I executed a series of analytical queries to validate standard risk pricing models and uncover borrower behavior.
 
-**1. Validating the Risk Pricing Model**
+* **Validating the Risk Pricing Model**
 Analysis confirmed that the institutional pricing model correctly scales interest rates according to credit risk. Average interest rates scaled perfectly from **6.91%** for Grade A borrowers up to **27.94%** for Grade G borrowers.
 
-**2. The Prediction Engine (Default Rates)**
+* **The Prediction Engine (Default Rates)**
 Using conditional aggregation, I calculated the true default ("Charged Off") rate per credit grade. The internal grading model proved highly accurate at predicting failure:
-* **Grade A:** 4.13% Default Rate
-* **Grade G:** 41.77% Default Rate (A 10x increase in risk)
+  * **Grade A:** 4.13% Default Rate
+  * **Grade G:** 41.77% Default Rate (A 10x increase in risk)
 
-**3. Borrower Intent & The "Debt Cycle"**
+* **Borrower Intent & The "Debt Cycle"**
 Volume analysis revealed that borrowers primarily use these loans to manage existing liabilities. Debt consolidation (336k+ loans) and Credit card (137k+ loans) comprised the vast majority of the volume. These specific borrowers also carried the highest average Debt-to-Income (DTI) ratios at nearly 20%.
 
-**4. The Small Business Anomaly**
+* **The Small Business Anomaly**
 Borrowers taking out loans for small business possessed one of the lowest average DTIs (15.64%), indicating relatively stable personal financial health. However, this category experienced the **highest default rate (19.64%)** across all major loan purposes, highlighting the extreme inherent risk of small business ventures compared to personal debt consolidation.
 
 ## 📁 Project Structure
