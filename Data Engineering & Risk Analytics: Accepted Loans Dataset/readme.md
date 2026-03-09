@@ -36,15 +36,11 @@ Using conditional aggregation, I calculated the true default ("Charged Off") rat
 * **Grade G:** 41.77% Default Rate (A 10x increase in risk)
 
 **3. Borrower Intent & The "Debt Cycle"**
-Volume analysis revealed that borrowers primarily use these loans to manage existing liabilities. `debt_consolidation` (336k+ loans) and `credit_card` (137k+ loans) comprised the vast majority of the volume. These specific borrowers also carried the highest average Debt-to-Income (DTI) ratios at nearly 20%.
+Volume analysis revealed that borrowers primarily use these loans to manage existing liabilities. Debt consolidation (336k+ loans) and Credit card (137k+ loans) comprised the vast majority of the volume. These specific borrowers also carried the highest average Debt-to-Income (DTI) ratios at nearly 20%.
 
 **4. The Small Business Anomaly**
-Borrowers taking out loans for `small_business` possessed one of the lowest average DTIs (15.64%), indicating relatively stable personal financial health. However, this category experienced the **highest default rate (19.64%)** across all major loan purposes, highlighting the extreme inherent risk of small business ventures compared to personal debt consolidation.
+Borrowers taking out loans for small business possessed one of the lowest average DTIs (15.64%), indicating relatively stable personal financial health. However, this category experienced the **highest default rate (19.64%)** across all major loan purposes, highlighting the extreme inherent risk of small business ventures compared to personal debt consolidation.
 
 ## 📁 Repository Files
 * `transformation_pipeline.sql`: Contains the complete SQL script for creating the cleaned data view and all risk analytics queries.
 
-## 👤 Author
-**[Your Name Here]**
-* [LinkedIn Profile URL]
-* [Your Portfolio Website URL]
