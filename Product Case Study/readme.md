@@ -1,7 +1,7 @@
 # Last Bite: Food Waste Management Platform
 
 ## 📌 Project Overview
-**Last Bite** is a comprehensive Product Management case study for a mobile application designed to bridge the gap between food waste and food insecurity. The platform connects local businesses (restaurants, grocery stores) with university students to sell surplus food at discounted rates.
+**Last Bite** is a comprehensive product management case study for a mobile application designed to bridge the gap between food waste and food insecurity. The platform connects local businesses (restaurants, grocery stores) with university students to sell surplus food at discounted rates.
 
 ## 🚀 Product Strategy
 * **Problem Solved:** Addresses the dual issue of 30-40% food supply wastage and the lack of affordable meal options for students in West Lafayette.
