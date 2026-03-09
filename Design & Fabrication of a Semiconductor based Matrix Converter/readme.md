@@ -31,4 +31,4 @@
 
 ## 📂 Project Structure
 
-**Note:** The full hardware schematics and project report are not publicly available in this repository due to copyright restrictions. However, I am available to present the complete documentation upon request.
+* **Note:** The full hardware schematics and project report are not publicly available in this repository due to copyright restrictions. However, I am available to present the complete documentation upon request.
